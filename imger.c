@@ -6,7 +6,7 @@ int main()
 	int width = 256;
 	int height = 256;
 	int max = 255;
-	FILE *out = fopen("imggen/image.ppm", "wb");    // write in binary mode
+	FILE *out = fopen("generated-image.ppm", "wb");    // write in binary mode
 	fprintf(out, "P6 %d %d %d\n", width,  height, max);
 	for (int i=0; i<height; i++)
 	{
