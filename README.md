@@ -26,4 +26,7 @@ make image via code
 - ![5.png](examples/5.png)
 - ![6.png](examples/6.png)
 - ![7.png](examples/7.png)
+- ![8.png](examples/8.png)
+- ![9.png](examples/9.png)
+- ![10.png](examples/10.png)
 
